@@ -1,0 +1,24 @@
+{
+  "name": "renamewl",
+  "version": "1.0.0",
+  "description": "Remove whitespaces and convert their name to lower case",
+  "main": "renamewl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/androsland/renameWL.git"
+  },
+  "keywords": [
+    "rename",
+    "whitespace",
+    "lowercase"
+  ],
+  "author": "Androsland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/androsland/renameWL/issues"
+  },
+  "homepage": "https://github.com/androsland/renameWL#readme"
+}
